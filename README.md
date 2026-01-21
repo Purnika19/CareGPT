@@ -1,5 +1,5 @@
 
-# ## CareGPT – AI-Powered Prescription & Healthcare Assistant
+### CareGPT – AI-Powered Prescription & Healthcare Assistant
 
 CareGPT is an advanced AI-driven healthcare assistant that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and OCR to help users understand medical prescriptions and medicines in a clear and user-friendly manner.
 
@@ -23,24 +23,24 @@ The system is designed to read prescriptions, extract medicine information, and 
 
 7. Cloud-ready architecture using AWS
 
-8. Core Technologies Used
+## Core Technologies Used
 
-Large Language Models (LLMs)
+# Large Language Models (LLMs)
 Used to understand extracted prescription text and generate meaningful, human-readable explanations.
 
-Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 Ensures responses are grounded in verified medical knowledge rather than pure generation.
 
-LangChain
+# LangChain
 Used to orchestrate prompts, retrieval pipelines, and interaction with LLMs.
 
-OpenAI API
+# OpenAI API
 Powers the language understanding and generation capabilities.
 
-OCR (Optical Character Recognition)
+# OCR (Optical Character Recognition)
 Extracts text from prescription images.
 
-AWS
+# AWS
 Used for cloud services such as storage, scalability, and deployment support.
 
 ## How CareGPT Works
