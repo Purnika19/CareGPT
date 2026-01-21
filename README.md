@@ -65,7 +65,7 @@ d. The results are displayed through an interactive web interface.
 
 ### Prescription Understanding & Medicine Use-Cases
 
-1. CareGPT helps users:
+# 1. CareGPT helps users:
 
 a. Read difficult or unclear prescriptions
 
@@ -75,7 +75,7 @@ c. Understand why a medicine is prescribed
 
 d. Reduce dependency on manual interpretation
 
-2. This is especially beneficial for:
+# 2. This is especially beneficial for:
 
 a. Patients
 
